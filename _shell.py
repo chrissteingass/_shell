@@ -24,7 +24,7 @@ from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 
 # Path
-path = getcwd() + '/Dropbox/_Git/'
+path = getcwd() + '/Dropbox/_Code/'
 
 
 # -------------------------------------------------------------------------
